@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6bd1273a5eb8ad64aa4ce0bc0829ca6e
+timeCreated: 1516682345
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - downSprite: {fileID: 21300000, guid: d3151f371155995459f51df51b0f9533, type: 3}
+  - upSprite: {fileID: 21300000, guid: 5565bd632ee47ca4c8f9bdd32906944a, type: 3}
+  - rightSprite: {fileID: 21300000, guid: 5691ccfabf0c8514a8c0d9494815fe7c, type: 3}
+  - leftSprite: {fileID: 21300000, guid: 229f77960efb1a1449eddc8aeaa21594, type: 3}
+  - occupiedTriggerVolume: {instanceID: 0}
+  - occupiedEventTrigger: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 4f3282f1a00f74a458dfea56a9e24ee4
+timeCreated: 1515622119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robot_VSGI_0
+    21300002: Robot_VSGI_1
+    21300004: Robot_VSGI_2
+    21300006: Robot_VSGI_3
+    21300008: Robot_VSGI_4
+    21300010: Robot_VSGI_5
+    21300012: Robot_VSGI_6
+    21300014: Robot_VSGI_7
+    21300016: Robot_VSGI_8
+    21300018: Robot_VSGI_9
+    21300020: Robot_VSGI_10
+    21300022: Robot_VSGI_11
+    21300024: Robot_VSGI_12
+    21300026: Robot_VSGI_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot_VSGI_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 61
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 398
+        width: 150
+        height: 210
+      alignment: 9
+      pivot: {x: 0.41835806, y: 0.08855068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 469
+        width: 61
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 377
+        width: 39
+        height: 84
+      alignment: 9
+      pivot: {x: 0.62, y: 1.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 379
+        width: 39
+        height: 84
+      alignment: 9
+      pivot: {x: 0.62, y: 1.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 312
+        width: 44
+        height: 57
+      alignment: 9
+      pivot: {x: 0.22, y: 0.93}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 145
+        height: 278
+      alignment: 9
+      pivot: {x: 0.47, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 312
+        width: 44
+        height: 57
+      alignment: 9
+      pivot: {x: 0.22, y: 0.93}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 67
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 153
+        width: 67
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 47
+        height: 128
+      alignment: 9
+      pivot: {x: 0.46, y: 1.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 93
+        height: 39
+      alignment: 9
+      pivot: {x: 0.26, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 35
+        width: 93
+        height: 39
+      alignment: 9
+      pivot: {x: 0.26, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_VSGI_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 10
+        width: 47
+        height: 128
+      alignment: 9
+      pivot: {x: 0.46, y: 1.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

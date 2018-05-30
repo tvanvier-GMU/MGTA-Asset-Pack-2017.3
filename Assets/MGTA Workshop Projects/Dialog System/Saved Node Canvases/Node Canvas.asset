@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6c0086c3892b96438fecf5113b2de2d, type: 3}
+  m_Name: Node Canvas
+  m_EditorClassIdentifier: 
+  editorStates:
+  - {fileID: 114516688563031104}
+  saveName: Assets\Node Canvas
+  savePath: Assets\Node Canvas.asset
+  livesInScene: 0
+  nodes: []
+  groups:
+  - rect:
+      serializedVersion: 2
+      x: -96.5
+      y: -65
+      width: 674
+      height: 344
+    title: Group
+    _color: {r: 1, g: 0, b: 0.64137983, a: 1}
+  Name: Dialog
+--- !u!114 &114516688563031104
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6ab6487237ff124ea4c2aa5de9ce3fb, type: 3}
+  m_Name: MainEditorState
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 11400000}
+  parentEditor: {fileID: 0}
+  selectedNode: {fileID: 0}
+  panOffset: {x: -225, y: -68}
+  zoom: 1
